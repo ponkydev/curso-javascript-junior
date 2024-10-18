@@ -6,7 +6,7 @@ const permisosDeFiesta = (edad, hora) => {
             alert("Puedes pasar y tienes todo gratis.");
             gratis = true;
         } else {
-            alert("Puedes pasar.");
+            alert(`Son las ${hora}, puedes pasar pero tienes que pagar la entrada.`);
         }
     } else {
         alert("No puedes pasar, eres menor.");
