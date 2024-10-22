@@ -14,7 +14,7 @@ Son las cualidades que tienen los objetos (color, peso, edad, etc).
 Son las acciones que puede realizar nuestro objeto (Correr, comer, encender, etc).
 
 ## Constructor
-Es un funcion obligatoria que deben llevar las clases, es quien crea las propiedades de los objetos.
+Es una funcion obligatoria que deben llevar las clases, es quien crea las propiedades de los objetos.
 
 ## Instanciacion
 La instanciación es el proceso de crear un objeto a partir de una clase. Cuando instancias una clase, estás creando una versión específica de esa clase con sus propios valores para las propiedades definidas en la clase.
