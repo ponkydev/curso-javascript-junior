@@ -13,7 +13,7 @@ El encapsulamiento es un principio de la programación orientada a objetos que c
 El polimorfismo es un principio de la programación orientada a objetos que permite que diferentes clases puedan ser tratadas como instancias de una clase común a través de una interfaz común. En otras palabras, permite que una misma operación o método se aplique a objetos de diferentes tipos.
 
 ## Herencia
-La herencia es un principio de la programación orientada a objetos que permite que una clase (denominada clase derivada o subclase) herede propiedades y comportamientos (atributos y métodos) de otra clase (denominada clase base o superclase). Esto facilita la reutilización del código y la creación de jerarquías de clases."
+La herencia es un principio de la programación orientada a objetos que permite que una clase (denominada clase derivada o subclase) herede propiedades y comportamientos (atributos y métodos) de otra clase (denominada clase base o superclase). Esto facilita la reutilización del código y la creación de jerarquías de clases.
 
 Su palabra reservada es: extends.
 
